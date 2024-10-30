@@ -1,0 +1,6 @@
+
+# Ignore the vivado project dynamic generated content
+vivado_gen/*
+# But Keep the following items
+!vivado_gen/.gitkeep
+!vivado_gen/*.xpr
